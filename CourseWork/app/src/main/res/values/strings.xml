@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CourseWork</string>
+    <string name="aboutButton">About</string>
+    <string name="newGameButton">New Game</string>
+    <string name="aboutContent">I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.</string>
+    <string name="close">Close</string>
+    <string name="about">About</string>
+    <string name="studentId">w1833588</string>
+    <string name="name">Sadurshan Ravindran</string>
+    <string name="quick_math">QUICK MATH</string>
+    <string name="Less">Less</string>
+    <string name="greater">Greater</string>
+    <string name="equal">==</string>
+    <string name="moveForward">Continue</string>
+    <string name="correct">CORRECT</string>
+    <string name="wrong">WRONG</string>
+    <string name="decoImage">image</string>
+    <string name="seconds_remaining">Seconds Remaining</string>
+    <string name="deco_clock">deco clock</string>
+    <string name="_10">+10</string>
+
+</resources>
